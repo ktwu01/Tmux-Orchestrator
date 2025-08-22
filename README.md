@@ -54,6 +54,8 @@ The Tmux Orchestrator uses a three-tier hierarchy to overcome context window lim
 ![Project Completed](Examples/Project%20Completed.png)
 *Successful project completion with all tasks verified and committed*
 
+To use this repository, we should first install Tmux using this command: https://github.com/tmux/tmux/wiki/Installing
+
 ## 🎯 Quick Start
 
 ### Option 1: Basic Setup (Single Project)
